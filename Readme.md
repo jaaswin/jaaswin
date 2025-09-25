@@ -3,12 +3,12 @@
 <ul>
   <li>🔭 I’m currently learning Python</li>
   <li>🗨 Ask me about Embedded Projects</li>
-  <li>📫 Reach me on  
-    <a href="https://www.linkedin.com/in/jaaswin">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="30" height="30" alt="LinkedIn" />
-    </a>
-  </li>
+   <li>Reach me on</li>
 </ul>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jaaswin"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>
+
 
 
 ### 🛠 I Code In  
