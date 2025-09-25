@@ -25,8 +25,10 @@
 ### 💻 IDE & Tools I Use  
 <p style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />&nbsp;
   <img width="50" height="50" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="50" height="50" />&nbsp;
+  
 </p>
 
 ### 📊 My GitHub Stats  
