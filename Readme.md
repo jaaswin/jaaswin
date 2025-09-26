@@ -28,6 +28,8 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="50" height="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/thonny/thonny/master/thonny/res/thonny.png" width="55" height="55" alt="Thonny IDE">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT">
   
 </p>
 
