@@ -13,10 +13,11 @@
 
 ### 🛠 I Code In  
 <p style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly;">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />&nbsp;
+
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />&nbsp;
 </p>
 
