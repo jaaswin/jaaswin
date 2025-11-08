@@ -1,7 +1,7 @@
 <h2>Hi there 👋 I'm Jayaaswin</h2>
 
 <ul>
-  <li>🔭 I’m currently learning Python</li>
+  <li>🔭 I’m currently learning PCB Design</li>
   <li>🗨 Ask me about Embedded Projects</li>
    <li>Reach me on</li>
 </ul>
