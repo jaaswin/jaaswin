@@ -24,6 +24,7 @@
 
 ### 💻 IDE & Tools I Use  
 <p style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img width="50" height="60" alt="image" src="https://github.com/user-attachments/assets/d02a9ce4-d009-4f10-9f84-b9345c981e14" />
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50" />&nbsp;
   <img width="50" height="50" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi"/>
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d76ce4c0-ae7c-4b88-9fbf-95c01b65c479" />
