@@ -26,6 +26,7 @@
 <p style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50" />&nbsp;
   <img width="50" height="50" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi"/>
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d76ce4c0-ae7c-4b88-9fbf-95c01b65c479" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />&nbsp;
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8a795f7a-bef4-4c2b-bc46-046185b21c40" />
   <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="50" height="50" />&nbsp;
