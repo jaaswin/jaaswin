@@ -1,11 +1,11 @@
 <h2>Hi there 👋 I'm Jayaaswin</h2>
 
 <ul>
-  <li>🔭 \</li>
+  <li>🔭 Learn or Win</li>
   <li>🗨 Ask me about Embedded Projects</li>
    <li>Reach me on</li>
 </ul>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
+
 
 
 
