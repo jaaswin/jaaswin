@@ -3,6 +3,9 @@
 <ul>
   <li>🔭 Learn or Win</li>
   <li>🗨 Ask me about Embedded Projects</li>
+  I am an Electronics and Communication Engineering student with strong skills in handling and understanding data. Through my
+projects and leadership roles, I have developed analytical thinking, attention to detail, and decision-making abilities. I am eager to
+apply these skills and continue learning in a dynamic environment.
    <li>Reach me on</li>
 </ul>
 
@@ -57,6 +60,3 @@
 
 
 </p>
-
-### 📊 My GitHub Stats  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaaswin&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
