@@ -3,9 +3,7 @@
 <ul>
   <li>🔭 Learn or Win</li>
   <li>🗨 Ask me about Embedded Projects</li>
-  I am an Electronics and Communication Engineering student with strong skills in handling and understanding data. Through my
-projects and leadership roles, I have developed analytical thinking, attention to detail, and decision-making abilities. I am eager to
-apply these skills and continue learning in a dynamic environment.
+
    <li>Reach me on</li>
 </ul>
 
