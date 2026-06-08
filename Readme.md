@@ -2,6 +2,7 @@
 
 <ul>
   <li>🔭 Learn or Win</li>
+  updating!!!
   <li>🗨 Ask me about Embedded Projects</li>
 
    <li>Reach me on</li>
