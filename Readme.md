@@ -1,7 +1,8 @@
 <h2>Hi there 👋 I'm Jayaaswin</h2>
 
 <ul>
-  <li>🔭 Learn or Win</li>
+  Electronics and Communication Engineer
+
   updating!!!
   <li>🗨 Ask me about Embedded Projects</li>
 
