@@ -4,7 +4,7 @@
   Electronics and Communication Engineer
 
   updating!!!
-  <li>🗨 Ask me about Embedded Projects</li>
+  <li>🗨 Ask me about Embedded And IOT Projects</li>
 
    <li>Reach me on</li>
 </ul>
