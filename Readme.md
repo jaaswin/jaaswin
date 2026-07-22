@@ -2,9 +2,12 @@
 
 <ul>
   Electronics and Communication Engineer
+  
 
   updating!!!
   <li>🗨 Ask me about Embedded And IOT Projects</li>
+
+  Cv project ongoing 
 
    <li>Reach me on</li>
 </ul>
