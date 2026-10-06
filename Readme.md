@@ -52,9 +52,10 @@
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/db738290-1433-482b-bced-6e6d5f08a45c" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT">
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d37f214a-53a3-49e5-9223-558abaee1585" />
-
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d60ada4a-f70f-45b5-9ef7-a86321a27f8b" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d65178ec-3643-4bd0-a52f-3f45241f97c1" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/069911f4-71b6-458f-af56-246bbc6e5c0d" />
+  
   <img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/7f7c2301-15b2-4563-8e73-8db108cee232" />
 
  
