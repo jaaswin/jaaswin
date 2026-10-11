@@ -44,6 +44,8 @@
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8db273f3-a037-4a6b-a289-96038c3a06e6" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e3a17e80-7675-4a90-8f1d-472debf819c5" />
   <img width="60" height="60" alt="iot pap" src="https://github.com/user-attachments/assets/3c19f0e6-25ff-4c3a-abb0-341881b8ae3c" />
+  <img width="50" height="50" alt="VirtualBox" src="https://github.com/user-attachments/assets/1f764a93-8fad-4e85-9ee9-11637e0f049e" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3f26e151-569f-4a37-9648-04751419332d" />
 
   <img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/0725b71d-0b93-446f-bbc2-80708ecb3cc4" />
 
