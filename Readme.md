@@ -1,19 +1,21 @@
-<h2>Hi there 👋 I'm Jayaaswin</h2>
+# Hi, I'm Jayaaswin M 👋
 
- ECE Student | Aspiring Design Verification Engineer ⚡
----
+### ECE Engineer | Aspiring Power & Automation Engineer ⚡
 
-  I'm a final-year Electronics and Communication Engineering student passionate about digital electronics, hardware design, and embedded systems. I enjoy turning concepts into working projects and am building my foundation in VLSI and Design Verification.
-  
-🎯**Focus:** Digital Design & Verification
+Final-year ECE student interested in **power system protection, substation automation, embedded systems, and cybersecurity**. I enjoy hands-on engineering projects and learning technologies that improve system reliability and safety.
 
-🔧**Experience:** Embedded Systems, IoT, Microcontrollers
+- ⚡ **Interests:** Protection & Automation, Smart Grids, Industrial Systems
+- 🔧 **Skills:** C, Python, MicroPython, Arduino, ESP32, Linux
+- 🏢 **Experience:** IIT Madras internship in networking, automation, and security labs
+- 🏆 **Achievement:** Selected to represent my college at SIH 2026 through the internal hackathon
 
-📚 **Learning:** Verilog HDL & RTL Verification
 
-🏆**Achievement:** Selected for SIH 2026 through the internal hackathon
 
-🏢 **Internship:** IIT Madras, Centre for Computing Resources
+### 🎯 My Goal
+
+To build a strong career in **power systems, protection, and automation**, combining my electronics knowledge with practical engineering skills.
+
+
 
    <li>Reach me on</li>
 </ul>
