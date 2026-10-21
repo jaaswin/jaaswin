@@ -1,11 +1,19 @@
 <h2>Hi there 👋 I'm Jayaaswin</h2>
 
-<ul>
-  Electronics and Communication Engineer
-  
+ ECE Student | Aspiring Design Verification Engineer ⚡
+---
 
-  updating!!!
-  <li>🗨 Ask me about Embedded And IOT Projects</li>
+  I'm a final-year Electronics and Communication Engineering student passionate about digital electronics, hardware design, and embedded systems. I enjoy turning concepts into working projects and am building my foundation in VLSI and Design Verification.
+  
+🎯**Focus:** Digital Design & Verification
+
+🔧**Experience:** Embedded Systems, IoT, Microcontrollers
+
+📚 **Learning:** Verilog HDL & RTL Verification
+
+🏆**Achievement:** Selected for SIH 2026 through the internal hackathon
+
+🏢 **Internship:** IIT Madras, Centre for Computing Resources
 
    <li>Reach me on</li>
 </ul>
